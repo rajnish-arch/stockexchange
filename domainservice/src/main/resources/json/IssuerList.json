@@ -1,0 +1,52 @@
+[
+	{
+		"issuerName": "APPLE INC",
+		"type": "Equity",
+		"isin": "*******",
+		"cusip": "******",
+		"sedol": "*******",
+		"reutersInstrumentCode": "*******",
+		"securityDescription": "APPLE ORD",
+		"tradingLineID": 555555,
+		"issueID": 55555,
+		"issueShortName": "Apple Inc",
+		"assetSubType": null,
+		"ticker": "****",
+		"permID": "*******",
+		"beginDate": "2020-05-13",
+		"lastUpdatedBy": "Vendor"
+	},
+	{
+		"issuerName": "APPLE INC",
+		"type": "FI",
+		"isin": "*******",
+		"cusip": "******",
+		"sedol": "*******",
+		"reutersInstrumentCode": "*******",
+		"securityDescription": "APPLE ORD",
+		"tradingLineID": 555555,
+		"issueID": 55555,
+		"issueShortName": "Apple Inc",
+		"assetSubType": null,
+		"ticker": "****",
+		"permID": "*******",
+		"beginDate": "2020-05-13",
+		"lastUpdatedBy": "Vendor"
+	},{
+		"issuerName": "DELL INC",
+		"type": "Equity",
+		"isin": "*******",
+		"cusip": "******",
+		"sedol": "*******",
+		"reutersInstrumentCode": "*******",
+		"securityDescription": "APPLE ORD",
+		"tradingLineID": 555555,
+		"issueID": 55555,
+		"issueShortName": "Apple Inc",
+		"assetSubType": null,
+		"ticker": "****",
+		"permID": "*******",
+		"beginDate": "2020-05-13",
+		"lastUpdatedBy": "Vendor"
+	}
+]
